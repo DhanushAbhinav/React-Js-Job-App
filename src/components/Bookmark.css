@@ -1,0 +1,11 @@
+.bookmarks-container {
+  padding: 10px;
+}
+
+.bookmark-card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
